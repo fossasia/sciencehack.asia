@@ -598,6 +598,7 @@ nav .container {
 }
 .sticky-nav {
   background: rgba(255, 255, 255, 0.9);
+  z-index:11;
 }
 .sticky-nav .menu li a {
   color: #333333;
